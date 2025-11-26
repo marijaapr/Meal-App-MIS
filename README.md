@@ -1,16 +1,6 @@
 # mis_meal_app
 
-A new Flutter project.
+A Flutter application that displays food categories, meals, and detailed recipes using TheMealDB API.
 
-## Getting Started
+video link: https://www.loom.com/share/857c61c930f54822bc4f753da0dd74a6
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
